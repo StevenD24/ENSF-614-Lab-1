@@ -1,4 +1,4 @@
-# ENSF 614 Assignment 1    
+# ENSF 614 Lab 1    
 An assignment on source files, UDFs, AR diagrams, and pointers in C++
 
 ## Folder Structure 
